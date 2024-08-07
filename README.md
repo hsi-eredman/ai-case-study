@@ -1,5 +1,5 @@
 # copy.ai Case Study
-![copy.ai](https://github.com/hsi-eredman/ai-case-study/tree/main/images/banner.png?raw=true)
+![copy.ai](images/banner.png)
 
 ## Table of contents
 - [Overview and Origin](#-overview-and-origin)
