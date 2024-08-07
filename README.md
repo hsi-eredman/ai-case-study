@@ -12,6 +12,7 @@
 ## Overview and Origin
 
 **copy.ai** was incorporated November 1st 2020 by Paul Yacoubian and Chris Lu.
+
 [![Share](https://img.shields.io/badge/share-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulyacoubian/) [![Share](https://img.shields.io/badge/share-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chris-lu11/)
 
 copy.ai originated from an AI tagline generator called tagline.ai, which was solely focused on creating taglines. After the product gained popularity, the co-founders decided to rebrand and expand it into Copy.ai, transforming it into a versatile platform with a suite of tools designed for a broader range of use cases and greater flexibility in the go-to-market sector.
