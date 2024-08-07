@@ -1,5 +1,5 @@
 # copy.ai Case Study
-[![copy.ai](https://images.app.goo.gl/gCGXRdzzFZomANRW9)]
+![copy.ai](banner.png)
 
 ## Table of contents
 - [Overview and Origin](#-overview-and-origin)
