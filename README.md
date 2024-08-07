@@ -1,5 +1,5 @@
 # copy.ai Case Study
-![copy.ai](banner.png)
+![copy.ai](images\banner.png)
 
 ## Table of contents
 - [Overview and Origin](#-overview-and-origin)
