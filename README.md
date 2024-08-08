@@ -1,13 +1,13 @@
 # copy.ai Case Study
-![copy.ai](images/banner.png)
+[![copy.ai](images/banner.png)](https://www.copy.ai/)
 
 ## Table of contents
-- [Overview and Origin](#-overview-and-origin)
-- [Business Activities](#-business-activities)
-- [Landscape](#-landscape)
-- [Results](#-results)
-- [Recommendations](#-recommendations)
-- [References](#-references)
+- [Overview and Origin](#overview-and-origin)
+- [Business Activities](#business-activities)
+- [Landscape](#landscape)
+- [Results](#results)
+- [Recommendations](#recommendations)
+- [References](#references)
 
 
 ## Overview and Origin
@@ -42,7 +42,7 @@ As of August 2024, the company has had two rounds of funding totaling approximat
 - Software bloat.
 - Consistent and quick content generation.
 
-The marketing software sector is valued at nearly *300 billion dollars*.<sup>[4][4]</sup> While go-to-market planning and execution accounts for only a portion of that market share, it's manifest that the market touches a huge amount of people and potential customers.
+The marketing software sector is valued at nearly *300 billion dollars*.<sup>[4][4]</sup> While go-to-market planning and execution accounts for only a portion of that market share, it is apparent that the market touches a huge amount of people and potential customers.
 
 [4]: https://www.inkwoodresearch.com/reports/digital-marketing-software-market/#:~:text=MARKET%20OVERVIEW,forecast%20period%2C%202023%2D2032.
 
@@ -80,7 +80,11 @@ Currently, **open.ai** is ranked number 1 on a company profiler.<sup>[1][1]</sup
 
 Something I would be excited to see from **copy.ai** would be the inclusion of AI generated video materials for marketing campaigns.
 
-The company would need to utilize NLP technologies<sup>[8][8]</sup> in order to achive this goal which would be a step away from the transformer neural networks they are currently utilizing. However, the value add from video content for their customers would set them far above any current or potential competition.
+The company would need to utilize NLP technologies<sup>[8][8]</sup> in order to achieve this goal since both AI video generation and text-to-speech use NLP tech as a way to allow the customers to communicate their inputs.
+
+In addition, **copy.ai** might need to either elaborate on their current neural networks or create an entirely new neural network to train the video generation AI.
+
+This might incompatible with the transformer neural networks they are currently utilizing. However, the value add from video content for their customers would set them far above any current or potential competition.
 
 [8]: https://www.colossyan.com/posts/ai-video-generation-what-is-it-and-how-does-it-work#:~:text=AI%20video%20generators%20use%20machine,between%20human%20language%20and%20computers.
 
@@ -107,3 +111,5 @@ The company would need to utilize NLP technologies<sup>[8][8]</sup> in order to 
  [Chris Lu LinkedIn Profile](https://www.linkedin.com/in/chris-lu11/)
 
  [Banner Location](https://www.copy.ai/search)
+
+ [Back to top](#top)
